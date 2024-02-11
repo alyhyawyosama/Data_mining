@@ -27,7 +27,7 @@ Discover the fundamentals of linear regression. This section includes assignment
 Explore various similarity algorithms, understanding how they measure the similarity between data points. Assignments in this section focus on applying these algorithms to relevant datasets.
 
 ## 5. Clustering Algorithms
-Dive into clustering algorithms to group similar data points together. This section includes assignments related to the implementation and analysis of clustering algorithms.
+clustering algorithms to group similar data points together. This section includes assignments related to the implementation and analysis of clustering algorithms .
 
 ## 6. Kaggle Certificate
 This section showcases my Kaggle certificate, highlighting achievements in data cleaning and Pandas.
