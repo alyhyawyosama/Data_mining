@@ -3,7 +3,7 @@
 Welcome to the Data Mining Practical Course repository! This repository is dedicated to showcasing assignments and algorithms completed as part of my data mining practical coursework at Sana'a University.
 
 ## Table of Contents
-
+    
 1. [Preprocessing Task](#preprocessing-task)
 2. [Association Rules using Apriori Algorithm](#association-rules-using-apriori-algorithm)
 3. [Linear Regression](#linear-regression)
@@ -34,9 +34,7 @@ This section showcases my Kaggle certificate, highlighting achievements in data 
 
 ### Data Cleaning and Pandas Certificate
 Explore my Kaggle certificate for accomplishments in data cleaning and Pandas, two essential skills in the field of data science. The certificate validates proficiency in handling and manipulating data efficiently.
-
-## 7. Data Cleaning Problems
-This section covers assignments related to real-world data cleaning problems, providing hands-on experience in resolving challenges commonly encountered in data preprocessing.
-
-## 8. Pandas Problems
-Explore assignments focused on Pandas, a powerful data manipulation library in Python. These problems cover a range of tasks, helping to enhance skills in working with tabular data.
+-	Data Cleaning Problems This directory contains assignments related to real-world data cleaning problems, providing hands-on experience in resolving challenges commonly encountered in data preprocessing
+			 
+- Pandas Problems
+	Explore assignments focused on Pandas, a powerful data manipulation library in Python. These problems cover a range of tasks, helping to enhance skills in working       with tabular data.<br> 
